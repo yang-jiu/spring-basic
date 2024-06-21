@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.core.scope.SingletonWithPrototypeTest1" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-21T06:51:47" hostname="DESKTOP-ETAQ13D" time="0.587">
+  <properties/>
+  <testcase name="singletonClientUserPrototype()" classname="hello.core.scope.SingletonWithPrototypeTest1" time="0.587"/>
+  <system-out><![CDATA[PrototypeBean.init
+PrototypeBean.init
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
